@@ -6,5 +6,5 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick AND simple.
 >>>>>>> featurel
 =======
-Git is free software.
+Git is free and safe software.
 >>>>>>> dev
